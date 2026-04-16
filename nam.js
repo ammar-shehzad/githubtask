@@ -3,4 +3,6 @@ let arr = [
   { name: "ashan" },
   { name: "hams" },
   { name: "other" },
+  { name: "ali" },
+
 ];
